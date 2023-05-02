@@ -1,4 +1,4 @@
-![Summarize Article](../../assets/image1.png "Summarize Article")
+![Summarize Article](.././assets/image1.png "Summarize Article")
 
 ### Live Demo
 https://645112bfa66ff207a63f95b7--super-sunflower-d47ed5.netlify.app/
