@@ -1,4 +1,4 @@
-![Example image](./assets/images(1).png "Example image")
+![Example image](./src/assets/image (1).png "Example image")
 
 ### Live Demo
 https://645112bfa66ff207a63f95b7--super-sunflower-d47ed5.netlify.app/
